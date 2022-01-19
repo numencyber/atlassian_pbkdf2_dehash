@@ -22,4 +22,4 @@ python3 atlassian_pbkdf2_dehash.py -p <passwordfile> -f <hashfile>
 ```
 
 ## 运行结果图
-![image](./img/img.png)
+![image](imgmg.png)
